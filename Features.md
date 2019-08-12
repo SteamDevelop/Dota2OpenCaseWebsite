@@ -1,4 +1,4 @@
-# CsgoOpenCaseWebsite
+# DOTA2OpenCaseWebsite
 DOTA2 case opening website
 
 1. Features
